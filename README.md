@@ -59,7 +59,7 @@ To get started, follow these simple steps:
 - **Step 2**: Clone the repository by running the following command on your terminal or command prompt:
     
     ```bash
-    bash    git clone https://github.com/yourusername/line-following-robot.git
+    bash    git clone https://github.com/jasmine-portfolio/Line-Following-Robot-with-Remote-Control.git
     ```
     
 - **Step 3**: Set up your TMS320F28379D development environment and upload the code.
