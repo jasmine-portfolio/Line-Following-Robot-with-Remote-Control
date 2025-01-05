@@ -4,6 +4,9 @@ This project implements a line-following robot using the TMS320F28379D microcont
 
 The line-following robot uses encoders to measure wheel speed and reflective sensors to detect the line. This project is ideal for learning about embedded systems, motor control, and communication between devices.
 
+![line-following-robot-with-remote-control](https://github.com/user-attachments/assets/122e5998-2212-4056-b620-f16814100646)
+
+
 
 ## 🚀 Features
 
@@ -46,7 +49,6 @@ Below is a brief description of each thread:
 - **rxData_swi()**: This function processes the data received from the ESP32.
 - **txData_swi()**: This function measures the two ADCs, calculates power consumption, and sends both the power and RPM1 values.
 
-
 ## 🔧 **Getting Started**
 
 ### 1. **Clone the Repository**
@@ -57,9 +59,7 @@ To get started, follow these simple steps:
 - **Step 2**: Clone the repository by running the following command on your terminal or command prompt:
     
     ```bash
-    bash
-    git clone https://github.com/yourusername/line-following-robot.git
-    
+    bash    git clone https://github.com/yourusername/line-following-robot.git
     ```
     
 - **Step 3**: Set up your TMS320F28379D development environment and upload the code.
@@ -105,7 +105,8 @@ The system operates through a combination of peripherals, periodic tasks, interr
 
 - **Heartbeat LED**: The system has a heartbeat indicator—a red LED that flashes to show the system is running.
 
-Flow chart:
+![image](https://github.com/user-attachments/assets/7dd8c828-a0ca-4447-bc96-51c1fa760bfd)
+
 
 ## 🕹️ Control Modes
 
