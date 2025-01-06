@@ -4,8 +4,7 @@ This project implements a line-following robot using the TMS320F28379D microcont
 
 The line-following robot uses encoders to measure wheel speed and reflective sensors to detect the line. This project is ideal for learning about embedded systems, motor control, and communication between devices.
 
-![line-following-robot-with-remote-control](https://github.com/user-attachments/assets/122e5998-2212-4056-b620-f16814100646)
-
+![line-following-robot-with-remote-control](https://github.com/user-attachments/assets/b3240738-2230-4c65-9771-0f225a6ff7f0)
 
 
 ## 🚀 Features
